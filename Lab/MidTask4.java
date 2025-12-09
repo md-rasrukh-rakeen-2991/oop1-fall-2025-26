@@ -1,7 +1,8 @@
 import java.util.Scanner;
 import java.lang.Math;
+import java.util.FizzBuzz;
 
-public class MortgageCalculator {
+public class MidTask4 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
